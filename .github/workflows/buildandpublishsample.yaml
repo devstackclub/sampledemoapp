@@ -1,5 +1,5 @@
 
-name: Build .NET 8 App
+name: Build .NET 8 App Sample
 
 on:
   push:
