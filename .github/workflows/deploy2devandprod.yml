@@ -25,7 +25,7 @@ env:
 
   # App Service names
   AZURE_WEBAPP_NAME_DEV: sampledemors-dev2
-  AZURE_WEBAPP_NAME_PROD: sampledemors2
+  AZURE_WEBAPP_NAME_PROD: sampledemo-rs2
 
 jobs:
   resolve-run:
