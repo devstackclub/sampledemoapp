@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jp5PF92ACR4=",
+  "dgSpecHash": "U6FhA+3HYpQ=",
   "success": true,
   "projectFilePath": "/tmp/workspace/devstackclub/sampledemoapp/MyModernApp/MyModernApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-66799e598bbe47a1/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.27/microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "/tmp/codeql-scratch-66799e598bbe47a1/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.27/microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
+    "/tmp/codeql-scratch-66799e598bbe47a1/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.27/microsoft.netcore.app.host.linux-x64.8.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
